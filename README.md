@@ -29,8 +29,6 @@ Python (colab)
 
 4.statsmodels (for advanced tests)
 
-# Great! Here's a **project overview** you can include in your GitHub repository to clearly explain what the project is about, what tests are used, and what each notebook accomplishes. You can paste this in your `README.md` at the top level of the repository.
-
 ---
 
 ## 📊 Hypothesis Testing Project Overview
