@@ -1,11 +1,14 @@
 # Project Name:
- All-Hypothesis-Test-stastistical-Inference
+ ## All-Hypothesis-Test-stastistical-Inference
+
 # 📊 Hypothesis Testing Project Overview
 This repository contains a collection of hypothesis testing projects using real and simulated datasets. Each notebook walks through a different statistical test used to validate or reject assumptions about data. The tests cover a variety of use cases such as comparing means, proportions, and relationships between categorical variables.
 # Files:
 -`Hypothesis_Test_Final.ipynb` Python File in Project
+
 # 🎯 Objective
 To demonstrate practical applications of hypothesis testing using Python (pandas, numpy, scipy, seaborn, matplotlib). The goal is to solve real-world problems with appropriate statistical tests and to interpret results correctly using p-values and confidence intervals.
+
 # 🧪 Included Hypothesis Tests & Projects
 | Project                                | Hypothesis Test                                              | Description                                                        |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------ |
@@ -31,20 +34,26 @@ Python (colab)
 
 ---
 
+## Hypotheses
+- **H0 (Null Hypothesis)
+- **H1 (Alternative Hypothesis)
+- 
 # ✅ Outcome
 Each project includes:
 
 A clear hypothesis statement (H₀ and H₁)
 
-Data loading and cleaning
+- Data loading and cleaning
 
-Visual exploration
+- Visual exploration
 
-Test assumptions (normality, variance)
+- Test assumptions (normality, variance)
 
-Performing the statistical test
+- Performing the statistical test
 
-Interpretation of the result
+- Interpretation of the result
 
-Business or scientific conclusion
+- Business or scientific conclusion
 
+## Result
+The p-value was 0.03, which is less than 0.05, so we reject the null hypothesis. There is a statistically significant difference in average height.
