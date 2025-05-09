@@ -24,20 +24,20 @@ To demonstrate practical applications of hypothesis testing using Python (pandas
 # 🛠 Tools & Libraries Used
 Python (colab)
 
-1.pandas, numpy
+- pandas, numpy
 
-2.scipy.stats
+- scipy.stats
 
-3.seaborn & matplotlib (visualization)
+- seaborn & matplotlib (visualization)
 
-4.statsmodels (for advanced tests)
+- statsmodels (for advanced tests)
 
 ---
 
 ## Hypotheses
 - **H0 (Null Hypothesis)
 - **H1 (Alternative Hypothesis)
-- 
+ 
 # ✅ Outcome
 Each project includes:
 
