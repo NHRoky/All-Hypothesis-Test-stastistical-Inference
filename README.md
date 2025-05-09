@@ -56,4 +56,4 @@ A clear hypothesis statement (H₀ and H₁)
 - Business or scientific conclusion
 
 ## Result
-The p-value was 0.03, which is less than 0.05, so we reject the null hypothesis. There is a statistically significant difference in average height.
+-- The p-value is less than 0.05 (P<0.05), So we reject the null hypothesis and The p-value is grater than than 0.05 (P>0.05), So we can not reject the null hypothesis.
