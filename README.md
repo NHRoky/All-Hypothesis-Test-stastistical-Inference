@@ -17,4 +17,34 @@ To demonstrate practical applications of hypothesis testing using Python (pandas
 | **6. Two-Proportion Z-Test**           | Compare two proportions                                      | Check if email click rates differ between two campaigns            |
 | **7. ANOVA (Analysis of Variance)**    | Compare means across 3 or more groups                        | Test if delivery time differs across three cities                  |
 | **8. A/B Testing Simulation**          | Two-sample proportion test                                   | Simulate A/B test of website conversion rates                      |
+# 🛠 Tools & Libraries Used
+Python (Jupyter Notebooks)
+
+pandas, numpy
+
+1.scipy.stats
+
+2.seaborn & matplotlib (visualization)
+
+3.statsmodels (for advanced tests)
+
+hypothesis-testing-projects/
+│
+├── independent-t-test/
+│   └── t_test_height.ipynb
+├── paired-t-test/
+│   └── weight_loss_analysis.ipynb
+├── one-sample-t-test/
+│   └── iq_test_analysis.ipynb
+├── chi-square-test/
+│   └── gender_product_relation.ipynb
+├── one-proportion-z-test/
+│   └── defect_rate_test.ipynb
+├── two-proportion-z-test/
+│   └── email_campaign_comparison.ipynb
+├── anova-test/
+│   └── delivery_time_comparison.ipynb
+├── ab-testing/
+│   └── ab_test_simulation.ipynb
+└── README.md
 
